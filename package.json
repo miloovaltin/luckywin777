@@ -1,16 +1,16 @@
 {
-"name": "luckywin777",
-"theme": "lucky win 777",
-"version": "10.5.4",
-"description": "lucky win 777 ทางเข้าเว็บสล็อตเว็บตรง อันดับ 1 ให้เครดิตฟรี",
-"keywords": [
-"lucky win 777",
-"lucky win 777 เครดิตฟรี",
-"lucky win 777 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/luckywin777",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "luckywin777",
+  "theme": "lucky win 777",
+  "version": "10.6.0",
+  "description": "lucky win 777 ทางเข้าเว็บสล็อตเว็บตรง อันดับ 1 ให้เครดิตฟรี",
+  "keywords": [
+    "lucky win 777",
+    "lucky win 777 เครดิตฟรี",
+    "lucky win 777 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/luckywin777",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
